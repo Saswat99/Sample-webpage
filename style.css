@@ -179,12 +179,3 @@ p
     align-items: center;
     color: #F9FAF8;
 }
-.dec
-{   
-    width: 15px;
-    text-align: center;
-    margin-left: 4px;
-    margin-right: 4px;
-    border-radius: 50%;
-    border: 2px solid #F9FAF8;
-}
