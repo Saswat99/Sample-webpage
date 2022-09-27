@@ -179,3 +179,12 @@ p
     align-items: center;
     color: #F9FAF8;
 }
+.links :hover
+{
+ color: #dd103d;   
+}
+button:hover
+{   
+   color: aqua; 
+   background-color: darkolivegreen;
+}
